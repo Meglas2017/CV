@@ -62,7 +62,7 @@ function cambiadatos(){
 
 function fondooriginal(){
     document.body.style.backgroundColor = "#ffffff";
-    document.body.style.backgroundImage = "url('js/fondo.jpg')";
+    document.body.style.backgroundImage = "url('fondo.jpg')";
     document.body.style.backgroundAttachment = "fixed";
 }
 
